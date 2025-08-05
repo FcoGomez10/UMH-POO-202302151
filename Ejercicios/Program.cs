@@ -19,7 +19,7 @@ namespace Ejercicios
 
             double total = costo * horas;
 
-            Console.WriteLine("Total devengado: " + total);
+            Console.WriteLine("Total devengado: " + "L."+ total);
         }
     }
 }
